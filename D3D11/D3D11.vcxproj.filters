@@ -18,9 +18,6 @@
     <ClCompile Include="D3D11.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CPrivateVector.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CPrivateVector.h">
